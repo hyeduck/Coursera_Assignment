@@ -1,5 +1,5 @@
 ### This is space for archiving of my personal R program script based on John's hopkins data science coursera course.
- It consists of 9 branches, which is Lecture2~Lecture10.
+ It consists of 10 branches, which is Lecture1~Lecture10.
  1. The Data Scientist's Toolbox
  2. R programming
  3. Getting and Cleaning Data
