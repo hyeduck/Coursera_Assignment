@@ -1,9 +1,11 @@
 1. Getting the Data from the URL
+====
  1-1) Download the file
  1-2) Unzip the file
  1-3) Get the list of the files
 
 2. Proprecessing
+====
  2-1) Reading Data of Features, Train, and Test respectively. 
  2-2) Combine the Test Data and Train Data and then labeling the column name. 
       This dataset name is alldata.
